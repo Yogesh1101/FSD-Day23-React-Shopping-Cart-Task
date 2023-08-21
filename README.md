@@ -8,6 +8,7 @@ Requirements:
 6. When an item is removed from the cart, the cart quantity number should be decreased.
 7. The "Remove from Cart" button should be changed back to the "Add to Cart" button once the item is removed from the cart.
 
+Netlify App Link: https://fsd-day23-react-shopping-cart-task.netlify.app/
 To run the app simply click the Netlify link given above.
     As per the instruction given in the document press the "Add to Cart" button.
     The button text changes to "Remove from Cart" and also the cart count increase.
