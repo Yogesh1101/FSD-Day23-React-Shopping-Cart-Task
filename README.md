@@ -1,4 +1,4 @@
-This task is done by taking the given design and has done all the requirements given in the document are,
+This task is done by taking the given design and has done all the requirements given in the document are,    
 Requirements:
 1. The shopping cart should display a list of available products with their name and description.
 2. Users should be able to add items to the cart by clicking the "Add to Cart" button.
