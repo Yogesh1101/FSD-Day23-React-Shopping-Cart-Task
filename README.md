@@ -10,6 +10,6 @@ Requirements:
 
 Netlify App Link: https://fsd-day23-react-shopping-cart-task.netlify.app/
 To run the app simply click the Netlify link given above.
-    As per the instruction given in the document press the "Add to Cart" button.
-    The button text changes to "Remove from Cart" and also the cart count increase.
-    When the "Remove from Cart" button is clicked, the button text again changes to "Add to Cart" and also the cart count decrease.
+As per the instruction given in the document press the "Add to Cart" button.
+The button text changes to "Remove from Cart" and also the cart count increase.
+When the "Remove from Cart" button is clicked, the button text again changes to "Add to Cart" and also the cart count decrease.
